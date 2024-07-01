@@ -1,0 +1,16 @@
+.bg{
+  background-color: rgb(196, 229, 252);
+  background-size: auto;
+}
+label{
+  font-size: 20px;
+}
+Form{
+  border: 0px solid;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 26px;
+  margin-bottom: 2px;
+  border-radius: 8px;
+  background-color:rgb(164, 213, 247);
+}
